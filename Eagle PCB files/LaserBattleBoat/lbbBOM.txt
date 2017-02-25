@@ -1,0 +1,26 @@
+Partlist exported from C:/Users/Cody Prestwood/Documents/eagle/LaserBattleBoat/lbbSchem.sch at 8/25/2015 2:24 PM
+
+Part  Value             Device            Package  Description                             MF MPN OC_FARNELL OC_NEWARK TP_SIGNAL_NAME
+D1    1N821             1N821             DO35Z10  Reference DIODE                                                                   
+D2    1N821             1N821             DO35Z10  Reference DIODE                                                                   
+D3    1N821             1N821             DO35Z10  Reference DIODE                                                                   
+D4    1N821             1N821             DO35Z10  Reference DIODE                                                                   
+D5    1N821             1N821             DO35Z10  Reference DIODE                                                                   
+D6    1N821             1N821             DO35Z10  Reference DIODE                                                                   
+GRIN  PTR1PAD1-13       PTR1PAD1-13       P1-13    TEST PIN                                                                          
+IC1   LM1458N           LM1458N           DIL08    OP AMP                                                                            
+LED1                    LED5MM            LED5MM   LED                                                                               
+R1                      R-US_0207/10      0207/10  RESISTOR, American symbol                                                         
+R2                      R-US_0207/10      0207/10  RESISTOR, American symbol                                                         
+R3                      R-US_0207/10      0207/10  RESISTOR, American symbol                                                         
+R4                      R-US_0207/10      0207/10  RESISTOR, American symbol                                                         
+R5                      R-US_0207/10      0207/10  RESISTOR, American symbol                                                         
+R6                      R-US_0207/10      0207/10  RESISTOR, American symbol                                                         
+R7                      R-US_0207/10      0207/10  RESISTOR, American symbol                                                         
+R8                      R-US_0207/10      0207/10  RESISTOR, American symbol                                                         
+SG1   F/HMB             F/HMB             F/HMB    BUZZER Source: Buerklin                        unknown    unknown                 
+SWBR  PTR1PAD1-13       PTR1PAD1-13       P1-13    TEST PIN                                                                          
+T1    2SC458TO92EBCREAL 2SC458TO92EBCREAL TO92-EBC NPN Silicon Epitaxial Planar Transistor                                           
+T2    2SC458TO92EBCREAL 2SC458TO92EBCREAL TO92-EBC NPN Silicon Epitaxial Planar Transistor                                           
+VBR   PTR1PAD1-13       PTR1PAD1-13       P1-13    TEST PIN                                                                          
+VCCIN PTR1PAD1-13       PTR1PAD1-13       P1-13    TEST PIN                                                                          

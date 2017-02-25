@@ -1,0 +1,67 @@
+Netlist
+
+Exported from lbbSchem.sch at 8/20/2015 11:48 AM
+
+EAGLE Version 7.3.0 Copyright (c) 1988-2015 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
+0V       GRIN     TP       TP         1
+         IC1      4        V-         1
+         R2       1        1          1
+         R5       1        1          1
+         T1       E        E          1
+         T2       E        E          1
+
+N$1      IC1      2        -IN        1
+         R1       1        1          1
+         R2       2        2          1
+
+N$2      R4       2        2          1
+         R5       2        2          1
+         T1       B        B          1
+         T2       B        B          1
+
+N$3      R7       1        1          1
+         R8       2        2          1
+
+N$4      D1       C        C          1
+         D2       C        C          1
+         D3       C        C          1
+         D4       C        C          1
+         D5       C        C          1
+         D6       C        C          1
+         IC1      1        OUT        1
+         R4       1        1          1
+
+N$5      D1       A        A          1
+         D2       A        A          1
+         D3       A        A          1
+         D4       A        A          1
+         D5       A        A          1
+         D6       A        A          1
+         IC1      3        +IN        1
+         R3       1        1          1
+
+N$6      LED1     A        A          1
+         R6       1        1          1
+
+N$7      LED1     K        C          1
+         T2       C        C          1
+
+N$8      R8       1        1          1
+         SG1      +        +          1
+
+N$9      SG1      -        -          1
+         T1       C        C          1
+
+N$10     SWBR     TP       TP         1
+         VBR      TP       TP         1
+
+V+       IC1      8        V+         1
+         R1       2        2          1
+         R3       2        2          1
+         R6       2        2          1
+         R7       2        2          1
+         VCCIN    TP       TP         1
+
