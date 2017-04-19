@@ -8,3 +8,6 @@ The game consisted of a grid table, a laser device, and a target device.  Studen
 
 ## My Role
 I designed and fabricated the devices, as well as the grid tables.  My colleague developed the rules for the game and the learning objectives for the students.
+
+## License
+This project was created for the App Academy and shared for the purpose of teaching students. Its use is strictly educational and it may not be copied without permission of the Pasadena Educational Foundation.
